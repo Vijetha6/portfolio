@@ -1,0 +1,20 @@
+.imgs{
+    margin:20px auto;
+    width:100%;
+    max-width:500px;
+    height:auto;
+    border:5px solid black;
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap; 
+}
+.text{
+    margin: 20px;
+    font-size:20px;
+    font-weight: 400;
+    font-style: italic;
+}
+.images{
+    text-align: center;
+    gap: 20px;
+}
